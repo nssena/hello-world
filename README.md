@@ -1,2 +1,2 @@
-# meu-primeiro-repo
-Meu primeiro repositório
+# hello-world
+Exercício Cubos Academy
